@@ -2,9 +2,7 @@
 
 **Name:** Thrishank · **Section:** CSE-GEN-AI-2A-304
 
-**Live link:** `<paste your public URL here after deploying on Render / Railway / NxtWave Cloud IDE>`
-(If not deployed: not deployed because ____; Postman screenshots of every endpoint are in `screenshots/`.)
-
+**Live link:** https://backend-labs-511l.onrender.com/
 ## How to run
 
 ```bash
